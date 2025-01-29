@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+First of al, let me explain what 'VandeSchêper' stands for. In the rural areas in the Netherlands people often ask 'Where are you from?', though not referring to a town or location rather than, who are your parents or grandpartents? In my case (or actually my fathers'), that would be 'from the Schêper' (van de Schêper) in dutch. Where 'De Schêper' was the name of the farmhouse where he grew up.
+
+Referring to this old-fashioned way of mentioning your heritage, it stands for a mor artisanal approach of making things. 
+
 <!--
 **VandeScheper/VandeScheper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
