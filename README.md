@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-First of al, let me explain what 'VandeSchêper' stands for. In the rural areas in the Netherlands people often ask 'Where are you from?', though not referring to a town or location rather than, who are your parents or grandpartents? In my case (or actually my fathers'), that would be 'from the Schêper' (van de Schêper) in dutch. Where 'De Schêper' was the name of the farmhouse where he grew up.
+The name comes from my interests in artisanal crafts and making hands on practical stuff. In earlier days in the rural area of the Netherlands where i'm from, you were often asked: "Where are you from?". Rather than an actual place, it referred to: "Who are your parents or grandparents. And for clarification a location, house name or occupation was added. In my case "Van de Schêper", as the farmhouse was called where my father and grandfather were raised.
 
-Referring to this old-fashioned way of mentioning your heritage, it stands for a mor artisanal approach of making things. 
+Here I hope to get used to documenting my projects and combining artisanal and digital techniques in nice projects. I am a biomedical engineer by education, have worked as mechanical engineer and am currently involved at FabLab Oldenzaal.
 
 <!--
 **VandeScheper/VandeScheper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
